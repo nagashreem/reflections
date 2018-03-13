@@ -14,6 +14,7 @@ They help us understand the commits that are tracked in a articular branch.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+staging area allows us to add the files to be committed.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
@@ -21,3 +22,4 @@ When we merge two branches together, the code in the two branches are merged tog
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+When automaticallu merging we are mostly depending on Git's ability to resolve the conflict which is not efficient and might not be accurate. Hence Manually reviewing the conflicts and resolving them before merging ensures that the code is clean and working.
