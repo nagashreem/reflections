@@ -15,13 +15,9 @@ They help us understand the commits that are tracked in a articular branch.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
-
-How do the diagrams help you visualize the branch structure?
-
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+When we merge two branches together, the code in the two branches are merged together after comparing the files in each branch. All the commits from the two merged branches will now be trackable in the Master branch. 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
