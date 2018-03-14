@@ -11,7 +11,11 @@ automatically stay up-to-date with your remote repository?
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks are created when you want to work with someone else's files as a starting point without affecting their original work, but being able to have an exact copy of the original files and work on top of it. The changes made to the files in your fork will be confined to your fork and wont affect the original files. Forking also helps in collaborating between multiple developers.
+
+   Clones are used when you want to copy a repository and work independently on it. This repository would be in your workspace and would not contain any reference to the original set of files. Cloning is used when you want to copy a set of files into your workspace and work independently on it.
+
+Branches are used when you want to add/experiment on a part of your file. Branching helps you maintain a working/desired version of the file while giving you an oppportunity to experiment. 
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
