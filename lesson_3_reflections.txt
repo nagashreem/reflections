@@ -30,5 +30,4 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+    Creating a seperate branch to make the changes makes it easier for the collaborators to review and approve a particular change before it is merged with the master branch. Creating a seperate branch helps contain the changes made in that branch until everyone else who would be affected by that change can review and approve those changes.
