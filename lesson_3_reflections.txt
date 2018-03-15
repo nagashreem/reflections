@@ -20,7 +20,8 @@ Branches are used when you want to add/experiment on a part of your file. Branch
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    It facilitates reviewing and resolving conflicts when merging the files with different set of edits between the local and remote repository.
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
